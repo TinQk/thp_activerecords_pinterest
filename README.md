@@ -1,24 +1,9 @@
-# README
+# Le Naufrage : épisode 2
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Tu es toujours là ? Chouette alors
 
-Things you may want to cover:
+La route vers l'app fonctionnelle fut longue, et semée d'embuches. 
 
-* Ruby version
+Après une courte matinée à se creuser la tête sur la version de Rails à utiliser (5.2.0 ? 5.2.1 ? 6.6.6?), un ouragan de bugs, plus insurmontable les uns que les autre, se mis à travers notre route. 
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+*...to be continued*
